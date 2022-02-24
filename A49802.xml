@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lawson of oathes and witnesses, according to the third and ninth commandments</title>
+            <author>Lawson, Jeremy.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49802</idno>
+            <idno type="STC">Wing L713</idno>
+            <idno type="STC">ESTC R213307</idno>
+            <idno type="EEBO-CITATION">27285541</idno>
+            <idno type="OCLC">ocm 27285541</idno>
+            <idno type="VID">110063</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49802)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110063)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1724:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lawson of oathes and witnesses, according to the third and ninth commandments</title>
+                  <author>Lawson, Jeremy.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jeremy Lawson,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: J.L.</note>
+                  <note>Attributed by Wing to Jeremy Lawson.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths --  Biblical teaching.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:110063:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 100 -->
+            <head>
+               <hi>Lawſon</hi> of Oathes and Witneſſes, according to the Third and Ninth Commandements.</head>
+            <p>THIS Commandement is Negative, and prohibits a grievous Sin, and by conſequence includes a Duty, tending to the Honour of this great King, who ought to be Worſhipped in ſuch a manner, as ſhall be ſutable to His Excellent Majeſty.</p>
+            <list>
+               <item>The Firſt Commandement forbids the Worſhip of ſtrange Gods, who are no Gods.</item>
+               <item>The Second, the Worſhip of Images, or by Images.</item>
+               <item>The Third, the taking of his Name in vain, or falſe-ſwearing. For,
+<list>
+                     <item>1. He is to be acknowledged as God.</item>
+                     <item>2. Worſhipped according to his own inſtitution.</item>
+                     <item>3. This Worſhip is to be performed in a due manner.</item>
+                  </list>
+               </item>
+            </list>
+            <p>In the words themſelves we have,
+<list>
+                  <item>1. A Sin forbidden.</item>
+                  <item>2. A penalty threatned, and to be ſuffered by him that ſhall be guilty of that Sin.</item>
+               </list>
+            </p>
+            <p n="1">I. The Sin is to take Gods name in vain;—</p>
+            <p>And leſt any one ſhould preſume, Every one muſt know, that the Lord will not hold him guiltleſs that taketh his Name in vain.</p>
+            <p>This is the Subſtance of this Law.</p>
+            <p n="2">II. To take Gods Name in vain; if we conſult with the Original, is to ſwear falſly, and to uſe Gods Name, to perſwade men to believe that which is falſe; Thus it is expounded. Thou ſhalt <hi>not ſwear by my Name falſly: Neither ſhalt thou prophane the Name of thy God, Lev.</hi> 19.12. and thus the <hi>Chaldae paraphraſt</hi> underſtands and turns the Words in this place, <hi>Exod.</hi> 20.7. and alſo <hi>Deut.</hi> 5.11. and though the word <hi>Magan</hi> ſignifies vain; yet the word <hi>Shekar,</hi> uſed by him in the latter part of the Comman<g ref="char:EOLhyphen"/>dements, ſignifies Falſehood, or a Lye: and <hi>Edſhekar</hi> is a falſe witneſs, <hi>Deut.</hi> 19.18. by which we may eaſily underſtand, that the Lord, in theſe words, forbids falſe ſwearing; and becauſe, in ſwearing we uſe Gods Name, and a falſe Oath is unjuſt, and, in reſpect of the end to which it was ordained is vain; therefore to ſwear falſly, is to take up, or uſe Gods Name prophanely, or in vain.</p>
+            <p n="3">III. An Oath is a kind of Teſtimony, and of it ſelf hath no ſufficient Power to prove any thing infallibly: therefore, as the perſon ſwearing, is, ſuch is the Oath. If God ſwear, we have infallible Truth, becauſe, his Word, much more his Oath, is infalli<g ref="char:EOLhyphen"/>ble: becauſe he can neither deceive, nor be deceived. Yet the better the Man is, the more credible is his Oath. And in matters which cannot be made evident by other proof; an Oath is the higheſt degree of confirmation, and more we cannot ex<g ref="char:EOLhyphen"/>pect, when more cannot be done. Therefore upon an Oath taken we reſt, for an <hi>Oath for Confirmation, is unto</hi> Men <hi>an end of all ſtrife, Heb.</hi> 6.16. in the Oath of man we hav<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: missing" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> two fold teſtimony; one of Man, another of God; and the teſtimony of God is <gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed to conf<gap reason="illegible: missing" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the teſtimony of Man in this <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpect, <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is ſaid to be a
+<pb n="2" facs="tcp:110063:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 101 -->producing of God, as Witneſs of the things ſworn, and the word of Man. Divers <hi>Schoolmen, Caſuiſts,</hi> and <hi>Civilians,</hi> and <hi>Theological</hi> Writers, both Papiſts and Prote<g ref="char:EOLhyphen"/>ſtants agree in the Definition of an Oath, that is a calling of God to Witneſs for the Confirmation of a matter that is doubtful.</p>
+            <p n="4">IV. After this Conſideration of the Nature of an Oath, follows the Diſtinction of Oathes, for there is an Oath of God, and an Oath by God. An Oath, by God, is taken by Angels or Men. The Oathes here are ſuch as are taken by Men.</p>
+            <list>
+               <item>1. Aſſertory, is of that which is paſt or preſent.</item>
+               <item>2. A Promiſſory, of ſomething to come; the latter is to confirm Leagues or Con<g ref="char:EOLhyphen"/>tracts, publick, or private; An Aſſertory Oath is when he ſwears that which he doth not certainly know to be true, or that which he knows to be falſe.</item>
+            </list>
+            <p>Let ſo much at preſent ſuffice for the Third Commandement.</p>
+            <p>Somewhat I intend of the Ninth Commandement.</p>
+            <p>After that God had determined the right of perſons, and things by the former Laws; he here preſcribes who are capable of giving an Oath, that is, Magiſtrates Read in the Law; perſons that come before Magiſtrates are of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> parties plaintiff, or defendant; to determine the right of Perſons, Things, Actions, both Publick and Private in which, a Party Litigant, whoſe Cauſe is brought before a Magiſtrate. And as the greateſt Point in Law is Evidence; for the preſerving the Rights, Lives, and Liberties of Men, are Witneſſes, to declare the Truth, all the Truth, and nothing but the Truth; I think it not amiſs to put down the Qualification of Witneſſes.</p>
+            <list>
+               <item>1. Qualification is, That they ſhould be born of Chriſtian Parents.</item>
+               <item>2. Qualification that they ſhould be Baptiz'd, according to the Lords Prayer, Creed and Ten Commandements.</item>
+               <item>3. Qualification, That they ſhould be brought up in theſe, by Parents, School<g ref="char:EOLhyphen"/>maſters and Guardians.</item>
+               <item>4. Qualification, that they ſhould be Sixteen years of Age.</item>
+               <item>5. Qualification, That they ſhould have their Sight, Hearing, Underſtanding, and Memory.</item>
+               <item>6. Qualification, That they ſhould not be given to Bribes.</item>
+               <item>7. Qualification, That they ſhould not be Malicious.</item>
+               <item>8. Qualification, that they ſhould clearly and fully declare the Truth.</item>
+               <item>9. Qualification, That they muſt not for favour or affection deny the Truth in favour of any, tho they be ever ſo near Related to them.</item>
+               <item>10. Qualification, That they muſt not liſſen to them that whiſpers in their Ears, when they are given their Evidence.</item>
+               <item>11. Qualification, they muſt not uſe doubtful expreſſions or equivocations.</item>
+               <item>12. Qualification, They muſt not have mental Reſervations, or contradict themſelves.</item>
+               <item>13. Qualification, They muſt not any waies obſcure the Cauſe, out of Fear or Favour, or any inordinate Paſſion and Affection.</item>
+            </list>
+            <p>My only deſign is to inform the Ignorant, put in mind the Wiſe, confute the Parſhal and Obſtinate, if poſſible, that in ſeeing they may ſee, and Reading under<g ref="char:EOLhyphen"/>ſtand the good Word of God, and keep his Commandements every one. I think this may be uſeful to Maſter and Servant.</p>
+            <closer>
+               <signed>Farewel <hi>J. L.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Jeremy Lawſon,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
